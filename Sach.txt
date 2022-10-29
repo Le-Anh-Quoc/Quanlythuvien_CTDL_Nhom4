@@ -4,4 +4,4 @@ B003,Tieng Anh 2,Johan Cavell,200000,Dai hoc Hue,0,2019,150,29-10-2022
 B004,Doraemon,Fujiko,25000,Kim Dong,0,2015,50,29-10-2022
 C005,Tuoi tre,Le Anh Quoc,100000,Binh Duong,0,2022,200,29-10-2022
 T007,Luat Nhan qua,Le Anh Quoc,50000,Kim Dong,0,2022,50,29-10-2022
-null,Tieng Anh 3,Le Anh Quoc,30000,Binh DUong,0,2022,100,29-10-2022
+C010,Cau truc du lieu,N.Viet Hung,80000,Dhsp tpHCM,0,2020,200,29-10-2022

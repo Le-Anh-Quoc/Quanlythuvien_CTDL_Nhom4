@@ -4,3 +4,4 @@
 4,Le Anh Quoc,0395599619,Binh Duong,29-10-2022
 5,Phan Thi Quynh Nhu,0395599619,Binh Duong,29-10-2022
 6,Nguyen Hong Long,0123456788,Ho Chi Minh city,29-10-2022
+7,Khanh Linh,0222222222,TP Ho Chi Minh,29-10-2022
