@@ -1,0 +1,5 @@
+﻿  Hienthi.cpp
+  Phieumuon.cpp
+C:\Users\leanh\source\repos\Thuvien\Thuvien\Phieumuon.cpp(106,39): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Thuvien.vcxproj -> C:\Users\leanh\source\repos\Thuvien\Debug\Thuvien.exe

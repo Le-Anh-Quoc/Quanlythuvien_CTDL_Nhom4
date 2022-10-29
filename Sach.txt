@@ -1,0 +1,7 @@
+A001,Luat tam thuc,Ngo Sa Thach,300000,Dan Tri,0,2018,200,20-10-2022
+A002,Nha gia kim,Robertson,200000,Tp Ho Chi Minh,0,2020,200,29-10-2022
+B003,Tieng Anh 2,Johan Cavell,200000,Dai hoc Hue,0,2019,150,29-10-2022
+B004,Doraemon,Fujiko,25000,Kim Dong,0,2015,50,29-10-2022
+C005,Tuoi tre,Le Anh Quoc,100000,Binh Duong,0,2022,200,29-10-2022
+T007,Luat Nhan qua,Le Anh Quoc,50000,Kim Dong,0,2022,50,29-10-2022
+null,Tieng Anh 3,Le Anh Quoc,30000,Binh DUong,0,2022,100,29-10-2022
